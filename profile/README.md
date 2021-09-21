@@ -14,6 +14,7 @@ We favor composition in both how we write our code and how we distribute it. Tha
 ### Native extensions
 
 - [**@mswjs/data**](https://github.com/mswjs/data) to model and query your mock data.
+- [**@mswjs/http-middleware**](https://github.com/mswjs/http-middleware) to spawn an HTTP server from your request handlers.
 
 ### Third-party extensions
 
