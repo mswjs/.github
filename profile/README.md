@@ -1,6 +1,6 @@
 ![Mock Service Worker banner](./banner.jpg)
 
-[Mock Service Worker](https://github.com/mswjs/msw) is an API mocking library for browser and Node.js that uses Service Workers to allow your requests to actually happen with no stubs, down to each tiniest request client detail, and intercept them at the network level.
+[Mock Service Worker](https://github.com/mswjs/msw) is an API mocking library for browser and Node.js that uses a Service Worker to intercept requests that actually happened. This means no request client stubs and unmatched resilience when it comes to request integrity, as your app now performs requests the same way it does in production.
 
 - 💬 [**Ask a question**](https://github.com/mswjs/msw/discussions/new)
 - 📙 [Read the documentation](https://mswjs.io/docs)
@@ -28,6 +28,6 @@ We favor composition in both how we write our code and how we distribute it. Tha
 
 This project is the result of hundreds of hours of work that our contributors spend so that you could enjoy the best API mocking experience there is to offer. If you'd like us to bring new features and mitigate issues more effectively, consider supporting us.
 
-- 🧡 [**Support Mock Service Worker on Open Collective**](https://opencollective.com/mswjs)
+👉 [**Support Mock Service Worker via GitHub Sponsors**](https://github.com/sponsors/mswjs)
 
-_By becoming a baker you help us ensure a bright future for the project. Remember that any contribution counts. Thank you_.
+_By becoming a baker you help us ensure a bright future for the project. We value and treasure every contribution, big or small. Thank you_.
