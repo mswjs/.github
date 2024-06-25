@@ -13,10 +13,11 @@ We favor composition in both how we write our code and how we distribute it. Tha
 
 ### Native extensions
 
-| Package                                                            | Description                                      |
-| ------------------------------------------------------------------ | ------------------------------------------------ |
-| [@mswjs/data](https://github.com/mswjs/data)                       | Model and query your mock data (fixtures).       |
-| [@mswjs/http-middleware](https://github.com/mswjs/http-middleware) | Spawn an HTTP server from your request handlers. |
+| Package                                                            | Description                                                                          |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| [@mswjs/data](https://github.com/mswjs/data)                       | Model and query your mock data (fixtures).                                           |
+| [@mswjs/source](https://github.com/mswjs/source)                   | Generate request handlers from various sources (HAR files, OpenAPI documents).       |
+| [@mswjs/http-middleware](https://github.com/mswjs/http-middleware) | Spawn an HTTP server from your request handlers.                                     |
 
 ### Third-party extensions
 
