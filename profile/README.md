@@ -1,4 +1,4 @@
-![Mock Service Worker banner](./banner.jpg)
+![Mock Service Worker banner](../banner.jpg)
 
 [Mock Service Worker](https://github.com/mswjs/msw) is an API mocking library for browser and Node.js that uses a Service Worker to intercept requests that actually happened. This means no request client stubs and unmatched resilience when it comes to request integrity, as your app now performs requests the same way it does in production.
 
