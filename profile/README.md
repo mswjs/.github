@@ -16,7 +16,7 @@ We favor composition in both how we write our code and how we distribute it. Tha
 | Package                                                              | Description                                                                          |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | [`@msw/data`](https://github.com/mswjs/data)                         | Model and query your mock data (fixtures).                                           |
-| [`@mswjs/source`](https://github.com/mswjs/source)                   | Generate request handlers from various sources (HAR files, OpenAPI documents).       |
+| [`@msw/source`](https://github.com/mswjs/source)                   | Generate request handlers from various sources (HAR files, OpenAPI documents).       |
 | [`@mswjs/http-middleware`](https://github.com/mswjs/http-middleware) | Spawn an HTTP server from your request handlers.                                     |
 
 ### Third-party extensions
@@ -24,7 +24,8 @@ We favor composition in both how we write our code and how we distribute it. Tha
 | Package                                                               | Description                                                       |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [`@msw/playwright`](https://github.com/mswjs/playwright)              | Official Playwright integration.                                  |
-| [`msw-storybook-addon`](https://github.com/mswjs/msw-storybook-addon) | Official Storybook add-on. |
+| [`msw-storybook-addon`](https://github.com/mswjs/msw-storybook-addon) | Official Storybook add-on.                                        |
+| [`@msw/sveltekit`](https://github.com/mswjs/sveltekit)                | Official SvelteKit add-on.                                        |
 
 ## Support us!
 
