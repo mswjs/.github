@@ -23,8 +23,9 @@ We favor composition in both how we write our code and how we distribute it. Tha
 
 | Package                                                               | Description                                                       |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [`@msw/playwright`](https://github.com/mswjs/playwright)              | Official Playwright integration.                                  |
+| [`@msw/playwright`](https://github.com/mswjs/playwright)              | Playwright integration.                                           |
 | [`msw-storybook-addon`](https://github.com/mswjs/msw-storybook-addon) | Official Storybook add-on.                                        |
+| [`@msw/cloudflare`](https://github.com/mswjs/cloudflare)              | Cloudflare (workerd) integration.                                 |
 | [`@msw/sveltekit`](https://github.com/mswjs/sveltekit)                | Official SvelteKit add-on.                                        |
 
 ## Support us!
